@@ -22,6 +22,9 @@
 ### Radio shows
 - [Jazzovska jutranjica](https://ars.rtvslo.si/jazzovska-jutranjica/)
 
+### Record store
+- [Jazz & Blues ploščarna](https://jazzandbluesweb.com/)
+
 ### Links
 - [Jazz in Slovenia](https://slovenia.si/art-and-cultural-heritage/jazz-in-slovenia/)
 
