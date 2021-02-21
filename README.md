@@ -7,6 +7,8 @@
 - [Jazz Kamp Kranj](https://www.facebook.com/jazzkampkranj/)
 - [Džjezz Jazz Festival Celje](https://www.facebook.com/Dzjezz/)
 - [Jazz Ravne](http://www.jazzravne.si)
+- [Bled Okarina festival](https://www.festival-okarina.si/en)
+- [Imago Sloveniae](https://imagosloveniae.net)
 - [Festival of Slovenian Jazz](https://www.culture.si/en/Festival_of_Slovenian_Jazz)
 - [Festival of Slovenian Jazz](http://www.fsj.si/)
 
