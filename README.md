@@ -1,4 +1,7 @@
 ## Welcome to Jazz
+
+This is a list of external links about jazz related topics in Slovenia.
+
 ### Festivals
 
 - [Ljubljana Jazz Festival](http://ljubljanajazz.si/index.php/sl/)
