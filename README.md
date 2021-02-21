@@ -11,6 +11,7 @@
 - [Imago Sloveniae](https://imagosloveniae.net)
 - [Festival of Slovenian Jazz](https://www.culture.si/en/Festival_of_Slovenian_Jazz)
 - [Festival of Slovenian Jazz](http://www.fsj.si/)
+- [Festival Ljubljana](https://ljubljanafestival.si/en)
 
 ### Venues
 - [Jazz klub Gajo - Jazz Paradise](https://www.tripadvisor.com/Attraction_Review-g274873-d7714782-Reviews-Jazz_Club_Gajo_Jazz_Paradise-Ljubljana_Upper_Carniola_Region.html)
