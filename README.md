@@ -33,3 +33,5 @@ This is a list of external links about jazz related topics in Slovenia.
 
 ### Jazz Wiki
 - [Jazz Wiki](https://github.com/jazz-si/music/wiki)
+
+[E-mail webmaster](mailto:jazzsi123@gmail.com)
