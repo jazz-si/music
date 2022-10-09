@@ -22,15 +22,5 @@ This is a list of external links about jazz related topics in Slovenia.
 - [Blunout Domžale](https://www.tripadvisor.com/Attraction_Review-g1238226-d8809371-Reviews-Blunout-Domzale_Upper_Carniola_Region.html)
 - [Jazz klub Satchmo](https://m.facebook.com/Jazz.klub.Satchmo/)
 
-### Radio shows
-- [Jazzovska jutranjica](https://ars.rtvslo.si/jazzovska-jutranjica/)
-
-### Record store
-- [Jazz & Blues ploščarna](https://jazzandbluesweb.com/)
-
 ### Links
 - [Jazz in Slovenia](https://slovenia.si/art-and-cultural-heritage/jazz-in-slovenia/)
-
-### Extra
-- [Jazz Wiki](https://github.com/jazz-si/music/wiki)
-- [E-mail the webmaster](mailto:jazzsi123@gmail.com)
